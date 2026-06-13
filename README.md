@@ -1,4 +1,5 @@
 FOLLOW THESE DIRECTIONS AT YOUR OWN RISK! 
+
 If steps aren’t taken during the PCB ordering process (changing the display connector) you will need to do some SMD rework to change out the connector on your own PCB. This is tricky and can take a few tries to get right and not bridge the little pins on the display connector. Should you choose to continue, I’d recommend you get some extra display connectors while you’re ordering your displays!
 
 Required Parts List:

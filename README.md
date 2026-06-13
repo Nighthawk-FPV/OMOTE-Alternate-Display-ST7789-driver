@@ -43,7 +43,7 @@ Now that the new display connector is soldered in place, plug the display into t
 
 Solder wire to the 6 pin breakout board. 
 
-Solder the wires to the corresponding locations on the PCB (if you purchased the ones in the amazon link, you can use the pinout below along with the image titled "):
+Solder the wires to the corresponding locations on the PCB (if you purchased the ones in the amazon link, you can use the pinout below along with the image titled "PCB Labeled"):
     Pin 1 on breakout = Power
     Pin 3 on breakout = Reset
     Pin 4 on breakout = SCL
